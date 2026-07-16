@@ -1,5 +1,52 @@
-# 💫 About Me:
- 🔭 I'm currently working on<br><br>* 🚀 Building new projects and turning ideas into real-world applications.<br>* 💻 Expanding my GitHub portfolio with impactful, full-stack projects.<br>* 🌱 Exploring AI-powered solutions and modern web technologies.<br><br>## 👯 I'm looking to collaborate on<br><br>* 🤝 Open-source projects<br>* 💡 AI & Machine Learning applications<br>* 🌐 Full-stack web development<br>* 📊 Product Management and startup projects<br>* 🏆 Hackathons and innovative tech ideas<br><br>## 🌱 I'm currently learning<br><br>* 📚 Product Management<br>* ⚛️ React & Full-Stack Development<br>* 🧠 System Design<br>* 📈 Data Analytics<br>* 🤖 Generative AI & LLMs<br><br>## 💬 Ask me about<br><br>* 💻 Python, JavaScript, HTML, CSS & SQL<br>* ⚛️ React Development<br>* 📦 Git & GitHub<br>* 🚀 Product Management<br>* 🌱 Building beginner-friendly tech projects<br><br>## ⚡ Fun fact<br><br>I believe the best way to learn is by building. Every new project teaches me something I couldn't have learned from tutorials alone.<br>rning<br>💬 Ask me about<br>⚡ Fun fact
+<h1 align="center">Hi 👋, I'm Kushagra Sharma</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=BCA+AI+%26+Data+Science+Student;Aspiring+Product+Manager;Full-Stack+Developer;Building+Projects+that+Solve+Real+Problems;Always+Learning+Something+New!" />
+</p>
+
+![](https://komarev.com/ghpvc/?username=krish24coder&color=blue)
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,mysql,html,css,git,github,vscode,figma" />
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=krish24coder&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish24coder&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=krish24coder&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=krish24coder&theme=tokyonight&row=1&column=6"/>
+</p>
+
+## 👨‍💻 About Me
+
+- 🎓 BCA (AI & Data Science) Student
+- 💼 Aspiring Product Manager
+- 💻 Full-Stack Developer
+- 🚀 Building AI-powered products
+- 🌱 Always learning new technologies
+
+  ## 🚀 Featured Projects
+
+🌾 KhetCool
+
+📊 Expense Tracker
+
+🤖 AI Chatbot
+
+📅 Campus Event Management
+
+🌐 Portfolio Website
+
+
 
 
 ## 🌐 Socials:
