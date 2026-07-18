@@ -8,9 +8,7 @@ Aspiring Product Manager • Full-Stack Developer • AI Enthusiast
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Building+Products+that+Solve+Real+Problems;Aspiring+Product+Manager;Full-Stack+Developer;AI+%26+Data+Science+Student;Always+Learning+Something+New+🚀" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krish24coder&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</p>
+
 
 ---
 ## 🚀 
