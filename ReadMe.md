@@ -13,6 +13,24 @@ Aspiring Product Manager • Full-Stack Developer • AI Enthusiast
 </p>
 
 ---
+## 🚀 
+
+I build **AI agents** and ship **production-ready examples** that developers can use right away.
+
+Most of my work is hands-on—writing real code, designing clean architectures, and building tested implementations for **AI Agents**, **Multi-Agent Systems**, **RAG**, **tool calling**, **memory**, and **LLM applications** running both locally and in the cloud.
+
+I maintain an open-source repository where I share complete agent templates, starter kits, and advanced demos that help developers skip the boilerplate and start building faster.
+
+## 💡 What I Work On
+
+- 🤖 AI Agents (Single-Agent, Multi-Agent, MCP, Browser Agents, Voice Agents, Local Agents)
+- ⚡ Ready-to-run projects (Clone → Install → Run)
+- 🛠️ Agent development workflows, planning, tools, logging, evaluation, and memory
+- 📚 Retrieval-Augmented Generation (RAG): Basic RAG, Agentic RAG, Hybrid Search, Local RAG
+- 💬 Chat-with-Anything applications (GitHub, Gmail, PDFs, YouTube Videos, Research Papers)
+- 🧠 Fine-tuning open-source models like **Gemma**, **Llama**, and other OSS LLMs
+- 🚀 Complete code-first tutorials on the **Google Agent Development Kit (ADK)** and **OpenAI SDK**
+---
 
 # 👨‍💻 About Me
 
