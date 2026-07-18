@@ -9,15 +9,8 @@ Aspiring Product Manager • Full-Stack Developer • AI Enthusiast
 </p>
 
 ---
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
----
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=krish24coder&label=Profile+Views&color=0e75b6&style=for-the-badge"/> </p>
 
 ---
 ## 🚀 
